@@ -1,5 +1,7 @@
 APClips
 Coders Rank
+Crevado
+CyberDefenders
 Freelance.habr
 GNOME VCS
 Giphy
@@ -20,6 +22,5 @@ Topcoder
 Weblate
 YandexMusic
 kaskus
-opennet
 svidbook
 threads
