@@ -1,7 +1,5 @@
 APClips
 Coders Rank
-Crevado
-CyberDefenders
 Freelance.habr
 GNOME VCS
 Giphy
@@ -20,7 +18,10 @@ Splice
 Spotify
 Topcoder
 Weblate
+WordPress
 YandexMusic
 kaskus
+opennet
 svidbook
 threads
+xHamster
