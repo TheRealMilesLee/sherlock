@@ -1,10 +1,10 @@
 APClips
-Coders Rank
+Audiojungle
 GNOME VCS
 Giphy
+GitHub
 HackerEarth
 Heavy-R
-LessWrong
 LushStories
 Mydramalist
 PepperIT
@@ -12,6 +12,7 @@ PocketStars
 Reddit
 Roblox
 RocketTube
+SlideShare
 Splice
 Spotify
 Topcoder
@@ -21,4 +22,3 @@ kaskus
 opennet
 svidbook
 threads
-xHamster
