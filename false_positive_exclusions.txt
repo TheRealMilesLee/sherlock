@@ -1,5 +1,4 @@
 APClips
-Coders Rank
 CyberDefenders
 GNOME VCS
 Giphy
@@ -14,13 +13,13 @@ Reddit
 Roblox
 RocketTube
 SlideShare
-SoylentNews
 Splice
 Spotify
 Topcoder
+TryHackMe
 Weblate
 YandexMusic
 kaskus
-nnRU
+opennet
 svidbook
 threads
