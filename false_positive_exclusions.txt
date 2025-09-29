@@ -1,5 +1,6 @@
 APClips
-Coders Rank
+CyberDefenders
+Dribbble
 GNOME VCS
 Giphy
 HackerEarth
@@ -15,12 +16,9 @@ RocketTube
 SlideShare
 Splice
 Spotify
-Topcoder
 Weblate
 YandexMusic
 kaskus
-nnRU
 opennet
 svidbook
 threads
-xHamster
