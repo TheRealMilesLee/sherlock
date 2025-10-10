@@ -1,16 +1,18 @@
 APClips
+Academia.edu
 DeviantArt
+Flipboard
 GNOME VCS
 Giphy
 HackerEarth
 Heavy-R
+LushStories
 PepperIT
 PocketStars
 Reddit
 RocketTube
 Splice
 Spotify
-Tenor
 Topcoder
 Weblate
 YandexMusic
