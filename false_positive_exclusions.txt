@@ -1,7 +1,6 @@
 APClips
-Academia.edu
+Coders Rank
 DeviantArt
-Flipboard
 GNOME VCS
 Giphy
 HackerEarth
@@ -16,7 +15,5 @@ Spotify
 Topcoder
 Weblate
 YandexMusic
-kaskus
-opennet
 svidbook
 xHamster
