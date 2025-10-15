@@ -1,14 +1,18 @@
 APClips
+Dribbble
+GNOME VCS
 Giphy
+HackerRank
 Heavy-R
-LessWrong
 LushStories
 PocketStars
 Reddit
 RocketTube
 Splice
 Spotify
+Topcoder
 Weblate
 YandexMusic
 opennet
+programming.dev
 svidbook
