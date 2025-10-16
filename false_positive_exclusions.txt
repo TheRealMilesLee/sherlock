@@ -1,18 +1,16 @@
 APClips
-Dribbble
+Coders Rank
 GNOME VCS
 Giphy
-HackerRank
 Heavy-R
+Linktree
 LushStories
 PocketStars
 Reddit
 RocketTube
 Splice
 Spotify
-Topcoder
 Weblate
 YandexMusic
 opennet
-programming.dev
 svidbook
