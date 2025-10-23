@@ -1,16 +1,15 @@
 APClips
-BreachSta.rs Forum
-DeviantArt
+Coders Rank
 GNOME VCS
 Giphy
 LushStories
 PocketStars
 Reddit
 RocketTube
-Slack
+SpeakerDeck
 Splice
 Spotify
 Weblate
 YandexMusic
+opennet
 svidbook
-xHamster
