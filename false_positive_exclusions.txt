@@ -1,6 +1,7 @@
 APClips
 Coders Rank
 DeviantArt
+Freelancer
 GNOME VCS
 Giphy
 LushStories
@@ -14,3 +15,5 @@ Weblate
 YandexMusic
 opennet
 svidbook
+threads
+xHamster
