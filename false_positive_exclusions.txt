@@ -1,9 +1,7 @@
 APClips
 GNOME VCS
 Giphy
-Itch.io
 LushStories
-Minecraft
 PocketStars
 Reddit
 RocketTube
@@ -11,4 +9,6 @@ Splice
 Spotify
 Weblate
 YandexMusic
+opennet
+phpRU
 svidbook
