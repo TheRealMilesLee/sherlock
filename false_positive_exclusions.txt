@@ -1,9 +1,8 @@
 APClips
-Coders Rank
 GNOME VCS
 Giphy
-HudsonRock
 LushStories
+Minecraft
 PocketStars
 Reddit
 RocketTube
@@ -14,4 +13,3 @@ YandexMusic
 opennet
 phpRU
 svidbook
-xHamster
