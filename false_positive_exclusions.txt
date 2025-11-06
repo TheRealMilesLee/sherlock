@@ -3,6 +3,7 @@ DeviantArt
 GNOME VCS
 Giphy
 LushStories
+Minecraft
 PocketStars
 Reddit
 RocketTube
@@ -12,4 +13,5 @@ Trovo
 Weblate
 YandexMusic
 opennet
+phpRU
 svidbook
