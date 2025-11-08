@@ -4,8 +4,8 @@ Coders Rank
 GNOME VCS
 Giphy
 LushStories
-Minecraft
 PocketStars
+Rajce.net
 Reddit
 RocketTube
 Splice
@@ -14,4 +14,3 @@ Weblate
 YandexMusic
 phpRU
 svidbook
-xHamster
