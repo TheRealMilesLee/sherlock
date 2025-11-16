@@ -4,13 +4,16 @@ Coders Rank
 DeviantArt
 GNOME VCS
 Giphy
+Harvard Scholar
 LushStories
 PocketStars
 Reddit
 RocketTube
 Splice
 Spotify
+Trovo
 Weblate
 YandexMusic
+opennet
 phpRU
 svidbook
