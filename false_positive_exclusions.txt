@@ -4,7 +4,6 @@ Coders Rank
 DeviantArt
 GNOME VCS
 Giphy
-GitHub
 PocketStars
 Reddit
 RocketTube
