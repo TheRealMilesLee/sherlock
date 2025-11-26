@@ -1,9 +1,8 @@
 APClips
-Anilist
 Archive.org
+Coders Rank
 GNOME VCS
 Giphy
-OurDJTalk
 PocketStars
 Rajce.net
 Reddit
@@ -12,6 +11,8 @@ Splice
 Spotify
 Weblate
 YandexMusic
+forum_guns
+opennet
 phpRU
 svidbook
 xHamster
