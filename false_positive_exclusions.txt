@@ -1,5 +1,6 @@
 APClips
 Archive.org
+Audiojungle
 Code Snippet Wiki
 Coders Rank
 DeviantArt
@@ -7,7 +8,7 @@ GNOME VCS
 GeeksforGeeks
 Giphy
 Hubski
-LushStories
+Itch.io
 PocketStars
 Reddit
 RocketTube
@@ -18,3 +19,4 @@ Weblate
 YandexMusic
 opennet
 svidbook
+xHamster
