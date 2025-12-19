@@ -1,6 +1,5 @@
 APClips
 Archive.org
-Blogger
 Code Snippet Wiki
 DeviantArt
 Fandom
@@ -17,6 +16,7 @@ Splice
 Spotify
 Trovo
 Weblate
-YandexMusic
+Wordnik
 opennet
 svidbook
+xHamster
