@@ -6,10 +6,7 @@ GNOME VCS
 GeeksforGeeks
 Giphy
 Hubski
-Itch.io
-LiveJournal
 LushStories
-Minecraft
 PocketStars
 Reddit
 RocketTube
