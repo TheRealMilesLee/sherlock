@@ -1,11 +1,11 @@
 APClips
 Archive.org
 Audiojungle
-Blogger
 Code Snippet Wiki
 DeviantArt
 Fandom
 GNOME VCS
+GeeksforGeeks
 Giphy
 Hubski
 LushStories
@@ -19,9 +19,7 @@ Splice
 Spotify
 Trovo
 Weblate
-YandexMusic
 mercadolivre
 opennet
 phpRU
 svidbook
-xHamster
